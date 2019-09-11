@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <armadillo>
-
+/*²âÊÔ¾ØÕó¿â*/
 int main()
 {
 
@@ -11,6 +11,6 @@ int main()
 
 
 
-	3+6
+	3 + 6;
 
 }
